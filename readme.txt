@@ -10,4 +10,6 @@ Git is a free software. //edit
 h: one character on the left.
 l: one character on the right.
 
+j: move one line below.
+k: move one line above.
 
