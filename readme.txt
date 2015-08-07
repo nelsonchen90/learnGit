@@ -7,6 +7,8 @@ if this line occurs :x has save the file and quit vi.
 
 Git is a free software. //edit
 
+The following is some commands for vi-a text editor
+
 h: one character on the left.
 l: one character on the right.
 
