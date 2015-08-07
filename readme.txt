@@ -17,3 +17,5 @@ k: move one line above.
 
 i: insert before cursor.
 a: insert after cursor.
+
+Git tracks changes.
