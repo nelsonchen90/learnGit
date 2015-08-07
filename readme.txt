@@ -13,3 +13,5 @@ l: one character on the right.
 j: move one line below.
 k: move one line above.
 
+i: insert before cursor.
+a: insert after cursor.
